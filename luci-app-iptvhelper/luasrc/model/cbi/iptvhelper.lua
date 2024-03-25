@@ -3,7 +3,7 @@
 
 local sys = require "luci.sys"
 
-m = Map("iptvhelper", translate("IPTV Helper"), translate("Help you configure IPTV easily. <a href=\"https://github.com/riverscn/openwrt-iptvhelper\">Github</a>"))
+m = Map("iptvhelper", translate("IPTV Helper"), translate("Help you configure IPTV easily."))
 
 s = m:section(TypedSection, "tvbox", translate("IPTV topbox parameters"))
 s.addremove = true

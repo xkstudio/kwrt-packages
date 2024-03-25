@@ -10,11 +10,8 @@ msgid "Enabled"
 msgstr "启用"
 
 #: luci-app-iptvhelper/luasrc/model/cbi/iptvhelper.lua:6
-msgid ""
-"Help you configure IPTV easily. <a href=\"https://github.com/riverscn/"
-"openwrt-iptvhelper\">Github</a>"
-msgstr "帮助你轻松配置IPTV。<a href=\"https://github.com/riverscn/"
-"openwrt-iptvhelper\">Github</a>"
+msgid "Help you configure IPTV easily."
+msgstr "帮助你轻松配置IPTV。"
 
 #: luci-app-iptvhelper/luasrc/controller/iptvhelper.lua:11
 #: luci-app-iptvhelper/luasrc/model/cbi/iptvhelper.lua:6
