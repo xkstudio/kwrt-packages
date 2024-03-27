@@ -19,7 +19,7 @@ Support for Lede / OpenWrt 18.06
 
 > Tips: need delete feeds/luci/themes/luci-theme-argon...
 
-- luci-app-argon-config `v0.9` ([Upstream](https://github.com/jerrykuku/luci-app-argon-config))
+- luci-app-argon-config `v0.9-20220424` ([Upstream](https://github.com/jerrykuku/luci-app-argon-config))
 
 > Tips: need delete feeds/luci/app/luci-app-argon-config...
 
