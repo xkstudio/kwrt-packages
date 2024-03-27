@@ -15,7 +15,7 @@ Support for Lede / OpenWrt 18.06
 
 - luci-app-omcproxy ([Upstream](https://github.com/riverscn/luci-app-omcproxy))
 
-- luci-them-argon `v1.8.3` ([Upstream](https://github.com/jerrykuku/luci-theme-argon))
+- luci-them-argon `v1.8.3-20230710` ([Upstream](https://github.com/jerrykuku/luci-theme-argon))
 
 > Tips: need delete feeds/luci/themes/luci-theme-argon...
 
