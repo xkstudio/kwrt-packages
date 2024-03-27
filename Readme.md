@@ -15,7 +15,7 @@ KWRT Packages
 
 - luci-them-argon v1.8.3 ([Upstream](https://github.com/jerrykuku/luci-theme-argon))
 
-> Delete feeds/luci/themes/luci-theme-argo...
+> Delete feeds/luci/themes/luci-theme-argon...
 
 - luci-app-argon-config v0.9 ([Upstream](https://github.com/jerrykuku/luci-app-argon-config))
 
