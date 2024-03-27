@@ -21,3 +21,5 @@ KWRT Packages
 
 > Delete feeds/luci/app/luci-app-argon-config...
 
+- luci-app-clash ([Upstream](https://github.com/frainzy1477/luci-app-clash))
+
