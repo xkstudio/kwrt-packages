@@ -8,12 +8,12 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=zabbix
-PKG_VERSION:=5.0.41
+PKG_VERSION:=5.0.42
 PKG_RELEASE:=1
 
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.gz
 PKG_SOURCE_URL:=https://cdn.zabbix.com/zabbix/sources/stable/5.0/
-PKG_HASH:=a4fbf0d253e82b5229b1773973c42ef73161c76a07273d9bc225fcd2fad86b9f
+PKG_HASH:=06e83e5b2eb3ffe93f60ae4de94164bd00a3a65bc4d0c5849eb627a54184a64d
 
 PKG_MAINTAINER:=KWRT <kwrt@openwrt.org>
 PKG_LICENSE:=GPL-2.0
