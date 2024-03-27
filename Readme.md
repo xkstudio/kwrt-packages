@@ -17,19 +17,17 @@ Support for Lede / OpenWrt 18.06
 
 - luci-them-argon v1.8.3 ([Upstream](https://github.com/jerrykuku/luci-theme-argon))
 
-> Delete feeds/luci/themes/luci-theme-argon...
+> Tips: need delete feeds/luci/themes/luci-theme-argon...
 
 - luci-app-argon-config v0.9 ([Upstream](https://github.com/jerrykuku/luci-app-argon-config))
 
-> Delete feeds/luci/app/luci-app-argon-config...
+> Tips: need delete feeds/luci/app/luci-app-argon-config...
 
 - luci-app-clash ([Upstream](https://github.com/frainzy1477/luci-app-clash))
 
 - luci-app-vssr ([Upstream](https://github.com/OpenWrt-Actions/luci-app-vssr))
 
-- lua-maxminddb ([Upstream](https://github.com/jerrykuku/lua-maxminddb))
-
-`Depends for luci-app-vssr`
+- lua-maxminddb `Depends for luci-app-vssr` ([Upstream](https://github.com/jerrykuku/lua-maxminddb))
 
 - luci-app-passwall
 
