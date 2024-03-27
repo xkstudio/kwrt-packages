@@ -1,6 +1,8 @@
 KWRT Packages
 =============
 
+Support for Lede / OpenWrt 18.06
+
 ## Package List
 
 - Hello world
