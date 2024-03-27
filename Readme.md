@@ -23,3 +23,5 @@ KWRT Packages
 
 - luci-app-clash ([Upstream](https://github.com/frainzy1477/luci-app-clash))
 
+- luci-app-vssr ([Upstream](https://github.com/OpenWrt-Actions/luci-app-vssr))
+
