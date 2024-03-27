@@ -29,3 +29,7 @@ KWRT Packages
 
 > Depends for luci-app-vssr
 
+- luci-app-passwall
+
+- luci-app-passwall2
+
