@@ -9,6 +9,8 @@ Support for Lede / OpenWrt 18.06
 
 - Zabbix `4.0.xx` / `5.0.xx` / `6.4.xx`
 
+> Tips: need to delete feeds/packages/admin/zabbix
+
 - iptvhelper ([Upstream](https://github.com/riverscn/openwrt-iptvhelper))
 
 - luci-app-iptvhelper ([Upstream](https://github.com/riverscn/openwrt-iptvhelper))
@@ -17,11 +19,11 @@ Support for Lede / OpenWrt 18.06
 
 - luci-them-argon `v1.8.3-20230710` ([Upstream](https://github.com/jerrykuku/luci-theme-argon))
 
-> Tips: need delete feeds/luci/themes/luci-theme-argon...
+> Tips: need to delete feeds/luci/themes/luci-theme-argon...
 
 - luci-app-argon-config `v0.9-20220424` ([Upstream](https://github.com/jerrykuku/luci-app-argon-config))
 
-> Tips: need delete feeds/luci/app/luci-app-argon-config...
+> Tips: need to delete feeds/luci/app/luci-app-argon-config...
 
 - luci-app-clash ([Upstream](https://github.com/frainzy1477/luci-app-clash))
 
