@@ -29,7 +29,7 @@ Support for Lede / OpenWrt 18.06
 
 - lua-maxminddb ([Upstream](https://github.com/jerrykuku/lua-maxminddb))
 
-> Depends for luci-app-vssr
+`Depends for luci-app-vssr`
 
 - luci-app-passwall
 
