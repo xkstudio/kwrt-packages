@@ -25,3 +25,7 @@ KWRT Packages
 
 - luci-app-vssr ([Upstream](https://github.com/OpenWrt-Actions/luci-app-vssr))
 
+- lua-maxminddb ([Upstream](https://github.com/jerrykuku/lua-maxminddb))
+
+> Depends for luci-app-vssr
+
