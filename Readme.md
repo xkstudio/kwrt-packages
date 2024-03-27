@@ -13,3 +13,11 @@ KWRT Packages
 
 - luci-app-omcproxy ([Upstream](https://github.com/riverscn/luci-app-omcproxy))
 
+- luci-them-argon v1.8.3 ([Upstream](https://github.com/jerrykuku/luci-theme-argon))
+
+> Delete feeds/luci/themes/luci-theme-argo...
+
+- luci-app-argon-config v0.9 ([Upstream](https://github.com/jerrykuku/luci-app-argon-config))
+
+> Delete feeds/luci/app/luci-app-argon-config...
+
